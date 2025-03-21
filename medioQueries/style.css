@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(212, 57, 212);
+}
+@media(min-width:100px) and (max-width:200px){
+    body{
+        background: rgb(205, 82, 82);
+    }
+}
+@media(min-width:200px) and (max-width:300px){
+    body{
+        background: blue;
+    }
+}
+@media(min-width:300px) and (max-width:400px){
+    body{
+        background:pink;
+    }
+}
+@media(min-width:400px) and (max-width:500px){
+    body{
+        background:black;
+    }
+}
+@media(min-width:500px) and (max-width:600px){
+    body{
+        background:green;
+    }
+}

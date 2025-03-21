@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+span{
+    font-family: "Arial";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+#t1{
+    font-family: "Arial";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+#t2{
+    font-family: "Blackadder ITC";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+#t3{
+    font-family: "Broadway";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+#t4{
+    font-family: "Chiller";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+#t5{
+    font-family: "Haettenschweiler";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+#t6{
+    font-family: "Freestyle Script";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+.t1{
+    text-decoration: 2px dashed overline gold;
+}
+.t2{
+    text-decoration: 2px double underline red;
+}
+.t3{
+    text-decoration: 2px dotted line-through green;
+}
+.text1{
+    text-shadow: 0 0 5px yellow;
+}
+@font-face{
+    font-family: "mine";
+    src:url(Minecrafter.Reg.ttf)
+    format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+.Mine{
+    font-family: "mine";
+}
+@font-face{
+    font-family: "pU";
+    src:url(loveyou.otf)
+    format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+.pu{
+    font-family: "pU";
+}
+@font-face{
+    font-family: "sp";
+    src:url(spacetime-regular.ttf)
+    format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+.sp{
+    font-family: "sp";
+}
+@font-face{
+    font-family: "ca";
+    src:url(handwriting-draft_free-version.ttf)
+    format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+.ca{
+    font-family: "ca";
+}
+font-face{
+    font-family: "ri";
+    src:url(ParmaInitialenMK.ttf)
+    format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+.ri{
+    font-family: "ri";
+}
