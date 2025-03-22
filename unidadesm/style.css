@@ -7,31 +7,31 @@ img{
     display: block;
     margin: 20px auto;
 }
-unidadpx{
+.unidadpx{
     width: 200px;
-    height: 200px;
+    height: 100px;
 }
-unidadcm{
+.unidadcm{
     width: 10cm;
     height: 10cm;
 }
-unidadmm{
+.unidadmm{
     width: 20mm;
     height: 20mm;
 }
-unidadq{
+.unidadq{
     width: 200q;
     height: 200q;
 }
-unidadin{
+.unidadin{
     width: 5in;
     height: 5in;
 }
-unidadpt{
+.unidadpt{
     width: 200pt;
     height: 200pt;
 }
-unidadpc{
+.unidadpc{
     width: 20pc;
     height: 20pc;
 }
